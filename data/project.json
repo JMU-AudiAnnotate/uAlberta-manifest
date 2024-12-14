@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "JMU-AudiAnnotate",
+    "is_private": false,
+    "title": "Readings and Discussion Featuring UAlberta Writer in Residence Ifeoma Chinwuba and Edmonton Poet Laureate Titilope Sonuga",
+    "description": "UAlberta Writer in Residence Ifeoma Chinwuba: Ifeoma is an accomplished diplomat and a celebrated poet, novelist, essayist and literary critic. Chinwuba's diplomatic service transported her to numerous countries and her career in the foreign service of Nigeria culminated in her appointment as Ambassador to Côte d'Ivoire. She is the author of five volumes, including three award-winning novels, a drama in verse, and a juvenile novella:Merchants of Flesh, which won the Prose Prize of the Association of Nigerian Authors, ANA (2004);Fearless; andWaiting for Maria, (ANA Prose Prize 2008), which was also nominated for the Commonwealth Writers Prize (2008). HerAfrican Romance(2013), is an epic poem in dialogue. Ms. Chinwuba has also recently published Head Boy (2019), a YA novella.\n\nCity of Edmonton Poet Laureate Titilope Sonuga: Titilope is a poet and performer whose work grasps for moments of tenderness and persistent joy at the intersection of blackness and womanhood. She is the author of three award-winning collections of poetry, Down to Earth (2011),Abscess(2014), andThis Is How We Disappear(2019) and has released two spoken word albums, Mother Tongue (2011) and Swim (2019). Titilope has written three plays, The Six; an intergenerational exploration of womanhood, Naked; a one-woman play, and Ada The Country, a musical. She has scripted advertising campaigns for global brands and was an actor on the hit television series Gidi Up, which aired across Africa. She is the 9th Poet Laureate of the City of Edmonton.\n\nHosted by Uchechukwu Peter Umezurike: Uche is a poet, children’s novelist, literary journalist, essayist, and the author ofDouble Wahala, Double Trouble(Griots Lounge Publishing, 2021) and Wish Maker (Masobe Books, 2021). He is a postdoctoral fellow at the University of Calgary and the winner of the 2021 Nigeria LNG Prize for Literary Criticism.",
+    "language": "en",
+    "slug": "uAlberta-manifest",
+    "creator": "JMU-AudiAnnotate",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "aviary",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2024-12-14T19:34:15.743Z",
+    "updated_at": "2024-12-14T19:34:15.743Z"
   }
 }
